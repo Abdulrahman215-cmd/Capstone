@@ -1,4 +1,4 @@
-const ACCESS_TOKEN = 'pk.eyJ1IjoiYWJkdWxyYWhtYW4tYTEiLCJhIjoiY200Zmx4ZnhzMWExaDJqb255cmZiZzM2dCJ9.-87ayb-tczbBjTlApYGylQ';
+const ACCESS_TOKEN = '// access token';
 
 mapboxgl.accessToken = ACCESS_TOKEN;
     const map = new mapboxgl.Map({
